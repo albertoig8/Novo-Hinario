@@ -1,0 +1,28 @@
+body {
+  background-color: #1c1c1c;
+  background-image:url(https://i.ytimg.com/vi_webp/9udbzMfSQnA/maxresdefault.webp);
+}
+div{
+  padding: 8px;
+}
+a{
+  padding: 4px;
+  color: black;
+  margin: 8px;
+  background-color: white;
+}
+#search{
+  margin-top: 2%;
+}
+#searchInput{
+  padding: 8px;
+  width: 520px;
+  border-radius: 5px;
+}
+label{
+  color: #1C1C1C;
+  background-color: white;
+  border-radius: 5px;
+  padding: 8px;
+  width: 50px;
+}
